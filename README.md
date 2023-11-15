@@ -1,4 +1,8 @@
 # chase-the-pizza ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg)
+## Entrega
+- Organizacion: https://github.com/ull-mfp-aet-2324-alu0100950625
+- Classroom: https://classroom.github.com/classrooms/149526649-ull-mfp-aet-2324-alu0100950625
+- Asignacion: https://classroom.github.com/a/_bQEXwfs
 
 ## Assignment
 Update the variable name so that it matches the food sprite image
